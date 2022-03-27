@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "xhash": "cpp",
+        "xstring": "cpp",
+        "vector": "cpp",
+        "istream": "cpp",
+        "unordered_map": "cpp",
+        "utility": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "ios": "cpp",
+        "list": "cpp",
+        "tuple": "cpp",
+        "string": "cpp",
+        "iosfwd": "cpp",
+        "xlocale": "cpp",
+        "sstream": "cpp"
+    }
+}
